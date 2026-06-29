@@ -4,7 +4,7 @@ Hands-on labs and writeups -  penetration testing &amp; offensive security
 
 # Project 1 — Recon and Enumeration of an Ubuntu Server
  
-First lab in my portfolio. I run the full recon flow against a Linux server with common services exposed, then document what I find and how to fix it.
+another lab in my portfolio. I run the full recon flow against a Linux server with common services exposed, then document what I find and how to fix it.
  
 | Field | Value |
 |-------|-------|
