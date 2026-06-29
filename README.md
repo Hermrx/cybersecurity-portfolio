@@ -200,19 +200,6 @@ I also learned that I lean too hard on default `nmap --script vuln`. Most of its
 ```
 proyecto1-recon/
 ├── README.md
-├── nmap/
-│   ├── 01-hosts.txt
-│   ├── 02-allports.txt
-│   ├── 03-services.txt
-│   └── 04-vuln.txt
-├── enum/
-│   ├── 01-whatweb.txt
-│   ├── 02-headers.txt
-│   ├── 03-gobuster.txt
-│   ├── 04-ftp.txt
-│   ├── 05-smb-shares.txt
-│   ├── 06-enum4linux.txt
-│   └── 07-ssh-banner.txt
 └── assets/
     ├── 01-host-discovery.png
     ├── 02-allports.png
